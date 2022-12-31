@@ -1,2 +1,2 @@
-# CECS-341
+# CECS-341-ALU
 Lab 3
